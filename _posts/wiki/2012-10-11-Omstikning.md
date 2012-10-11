@@ -1,5 +1,9 @@
-Omstikning
-==========
+---
+layout: post
+category : lessons
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
 
 1. Rengør en gæringsspand, låg og gærlås. Se
    [rengøringsguiden](/wiki/rengoering)
