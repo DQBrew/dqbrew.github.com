@@ -6,8 +6,11 @@ tagline:
 {% include JB/setup %}
 
 __Brygmestre:__ Kim, Taus og Dybber
+
 __Brygget:__ 4. oktober 2012
+
 __Omstukket:__ 11. oktober 2012
+
 __Bliver flasket:__ 18. oktober 2012
 
 Opskrift
