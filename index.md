@@ -5,10 +5,19 @@ tagline: DIKUs bryggeriforening
 ---
 {% include JB/setup %}
 
+
+Jekyll
+------
 Siden benytter Jekyll og er startet med skelettet fra
-[Jekyll Bootstrap](http://jekyllbootstrap.com). Her er en
+[Jekyll Bootstrap](http://jekyllbootstrap.com). Idéen er basalt set at
+hver gang man committer til Github-repositoriet:
+[https://github.com/DQBrew/dqbrew.github.com](https://github.com/DQBrew/dqbrew.github.com)
+vil Github køre en template engine henover alt markdown og generere
+hjemmesiden ud fra nogle konfigationsfiler og nogle tema-filer/templates.
+
+Her er en
 [Quick Start guide](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-til Jekyll.
+til Jekyll. Sig til på mailinglisten hvis du vil have commit-adgang til siden. 
 
 <!-- ## Update Author Attributes -->
 
