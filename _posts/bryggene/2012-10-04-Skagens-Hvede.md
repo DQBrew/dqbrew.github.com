@@ -1,7 +1,6 @@
 ---
 layout: post
 category : bryg
-tagline: 
 ---
 {% include JB/setup %}
 
