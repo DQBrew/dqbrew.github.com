@@ -1,5 +1,7 @@
 ---
 layout: page
+title: DQBrew
+tagline: DIKUs bryggeriforening
 ---
 {% include JB/setup %}
 
