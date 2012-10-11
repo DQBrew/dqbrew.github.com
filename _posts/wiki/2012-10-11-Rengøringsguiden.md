@@ -1,9 +1,18 @@
 ---
 layout: post
 category : wiki
-tagline: Så gør vi sådan når vi ...
+tagline: Så gør vi sådan når vi ... BAM og snavset var væk
 ---
 {% include JB/setup %}
+
+Desinficering
+-------------
+
+Flaskerenseren
+--------------
+
+Oprydning efter bryg
+--------------------
 
 Fjerne etiketter
 ----------------
