@@ -1,9 +1,10 @@
 ---
 layout: post
 category : wiki
+tagline: 
 ---
 {% include JB/setup %}
-
+n
 1. Rengør en gæringsspand, låg og gærlås. Se
    [rengøringsguiden](/wiki/Rengøringsguiden)
 

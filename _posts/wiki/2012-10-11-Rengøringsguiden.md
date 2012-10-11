@@ -1,12 +1,12 @@
 ---
 layout: post
 category : wiki
+tagline: Så gør vi sådan når vi ...
 ---
 {% include JB/setup %}
 
-
 Fjerne etiketter
-================
+----------------
 Smid flaskerne i en spand en uges tid:
 ![Flasker i en uges vandbad](/images/flaskebad.jpg "1 uge i vand")
 
