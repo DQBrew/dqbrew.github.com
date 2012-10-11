@@ -1,7 +1,6 @@
 ---
 layout: post
-category : lessons
-tags : [intro, beginner, jekyll, tutorial]
+category : wiki
 ---
 {% include JB/setup %}
 
