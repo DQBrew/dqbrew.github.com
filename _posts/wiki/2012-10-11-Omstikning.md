@@ -5,7 +5,7 @@ category : wiki
 {% include JB/setup %}
 
 1. Rengør en gæringsspand, låg og gærlås. Se
-   [rengøringsguiden](/wiki/rengoering)
+   [rengøringsguiden](/wiki/Rengøringsguiden)
 
 2. Transporter det hele ned til gæringslokalet og pas på det ikke
    bliver beskidt på vejen
