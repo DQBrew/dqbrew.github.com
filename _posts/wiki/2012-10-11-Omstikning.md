@@ -21,7 +21,8 @@ tagline:
 
 ![Omstikning 1](/images/omstikning1.jpg "Omstikning")
 
-6. ...
+6. ...??
+
 7. Vente vente:
    ![Omstikning 2](/images/omstikning2.jpg "Omstikning")
 8. PROFIT!
