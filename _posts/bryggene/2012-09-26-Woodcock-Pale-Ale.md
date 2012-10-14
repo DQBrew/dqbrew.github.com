@@ -1,7 +1,7 @@
 ---
 layout: post
 category : bryg
-tagline: Andern bryg
+tagline: 2. bryg
 ---
 {% include JB/setup %}
 
@@ -9,9 +9,9 @@ __Brygmestre:__ Jakob, Henne, Michael, Klaus og Taus
 
 __Brygget:__ 26. september 2012
 
-__Omstukket:__ 3. oktober 2012 ?
+__Omstukket:__ 3. oktober 2012
 
-__Tappet:__ 10. oktober 2012 ?
+__Tappet:__ 10. oktober 2012
 
 __Første tår:__ 17. oktober 2012
 
