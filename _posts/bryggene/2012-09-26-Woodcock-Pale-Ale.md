@@ -15,6 +15,8 @@ __Tappet:__ 10. oktober 2012
 
 __Første tår:__ 17. oktober 2012
 
+__Kapselfarve:__ Sort
+
 Opskrift
 --------
 All-grain kit fra <http://brygladen.com/> til 179 kr. 
