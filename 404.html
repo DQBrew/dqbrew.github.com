@@ -1,1 +1,16 @@
-Sorry this page does not exist =(
+---
+layout: page
+title: 404
+---
+{% include JB/setup %}
+
+Sorry this page does not exist, go grab a beer!
+
+<script type="text/javascript">
+  images = ["beer-ugly-people.jpg",  "beer-your-friend.gif", "drink-beer.jpg", "naughty-liver.jpg"];
+  var img = document.getElementById("motivational");
+  i = Math.floor(Math.random() * images.length);
+  img.src = "/images/" + images[i];
+</script>
+
+<img src="/images/drink-beer.jpg" alt="Drink beer!" id="motivational" />

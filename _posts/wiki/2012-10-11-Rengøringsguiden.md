@@ -17,12 +17,12 @@ Oprydning efter bryg
 Fjerne etiketter
 ----------------
 Smid flaskerne i en spand en uges tid:
-![Flasker i en uges vandbad](/images/flaskebad.jpg "1 uge i vand")
+![Flasker i en uges vandbad](/images/guide/flaskebad.jpg "1 uge i vand")
 
 Når de kommer op igen, falder etiketterne bare af. Limen er helt
 opløst. Brug en opvaskebørste til at få evt. rester væk. Nemmere kan
 det ikke blive.
 
-![Ren flaske](/images/rengjort-flaske.jpg "Nice!")
+![Ren flaske](/images/guide/rengjort-flaske.jpg "Nice!")
 
 Nice!

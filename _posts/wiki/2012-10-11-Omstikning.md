@@ -19,12 +19,12 @@ tagline:
 5. Åben forsigtigt taphanen med den tomme spand stående lidt på skrå
    ind under hanen, så øllen løber ned langs kanten.
 
-   ![Omstikning 1](/images/omstikning1.jpg "Omstikning")
+   ![Omstikning 1](/images/guide/omstikning1.jpg "Omstikning")
 
 6. ...??
    
 7. Vente vente:
 
-   ![Omstikning 2](/images/omstikning2.jpg "Omstikning")
+   ![Omstikning 2](/images/guide/omstikning2.jpg "Omstikning")
    
 8. PROFIT!
