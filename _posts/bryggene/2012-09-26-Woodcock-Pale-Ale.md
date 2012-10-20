@@ -26,3 +26,7 @@ Købes her: <http://www.brygladen.com/woodcock-pale-ale.html>
 Opskrift: <http://www.brygladen.com/media/uploads/woodcock.pdf>
 
 Findes også i flere udgaver på BeerCalc.
+
+Resultat
+--------
+![Woodcock Pale Ale](/images/bryg/bryg_2_woodcock_pale_ale.jpg "Woodcock Pale Ale")
