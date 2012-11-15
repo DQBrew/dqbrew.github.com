@@ -10,6 +10,7 @@ __Brygget:__ 16. oktober 2012
 
 __Første tår:__ 3. november 2012
 
+__Kapselfarve:__ Mørkegrøn
 
 Opskrift
 --------

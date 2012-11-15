@@ -10,7 +10,9 @@ __Brygget:__ 4. oktober 2012
 
 __Omstukket:__ 11. oktober 2012
 
-__Bliver flasket:__ 18. oktober 2012
+__Flasket:__ 20. oktober 2012
+
+__Kapselfarve:__ Rød
 
 Opskrift
 --------
