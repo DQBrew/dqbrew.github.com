@@ -25,8 +25,7 @@ god.
 
 Opskrift
 --------
-Opskriften er 100% hjemmegjort og kan findes på BeerCalc, inkl. logbog fra brygningen:
-http://www.haandbryg.dk/cgi-bin/beercalc.cgi?pick=DQBrew%20-%204A%20Jul%202012&mine=on&sort=date&stylesort=0&numshow=100&namesearch=&brewersearch=
+Opskriften er 100% hjemmegjort og kan findes på [BeerCalc, inkl. logbog fra brygningen](http://www.haandbryg.dk/cgi-bin/beercalc.cgi?pick=DQBrew%20-%204A%20Jul%202012)
 
 Vi ville egentlig have haft Hallertauer humle, men det havde de ikke
 hos "Vinøl Hobby" på dagen, så derfor blev det i stedet Fuggle. På
